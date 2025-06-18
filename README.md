@@ -1,11 +1,43 @@
-<h1 align="center">Hi 👋, I'm Kazuo Hashimoto</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+# 👨‍💻 Kazuo Hashimoto
 
-<h3 align="left">Connect with me:</h3>
+🎓 **Engenheiro de Computação** pela **Universidade Católica de Petrópolis**  
+🏭 **Engenheiro de Automação Industrial** na **Japa Automação Industrial**  
+🌍 **Especialista em integração de sistemas, programação de CLPs e soluções industriais de alta performance**
+
+---
+
+## 🚀 Sobre Mim
+
+Sou um engenheiro apaixonado por tecnologia e inovação. Minha missão é transformar processos industriais através de soluções de automação inteligentes e sustentáveis.
+
+Atuo com foco em **projetos de automação**, **desenvolvimento de lógica de controle**, **comunicação industrial**, e **integração de sistemas de supervisão**.
+
+Tenho experiência tanto em campo quanto em desenvolvimento técnico, sempre buscando aplicar as melhores práticas de engenharia de software também no ambiente industrial.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Programação de PLCs** (Siemens TIA Portal)
+- **Protocolos Industriais** (Modbus, Profibus, Profinet)
+- **Sistemas SCADA** (WinCC, FactoryTalk, etc.)
+- **Versionamento de Código**: Git / GitHub
+- **Integração de Sistemas** e **IoT Industrial**
+
+---
+
+## 📈 Atuação
+
+Na **Japa Automação Industrial**, atuo no desenvolvimento e implantação de soluções completas de automação, desde o projeto elétrico e programação de CLPs até a integração de supervisórios e sistemas de comunicação remota via rádio.
+
+Além disso, estou sempre buscando aplicar boas práticas de engenharia de software dentro do ambiente de automação, utilizando **controle de versão**, **documentação técnica** e **testes estruturados**.
+
+## 📫 Contato
+
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kazuo-hashimoto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kazuo-hashimoto/" height="30" width="40" /></a>
-</p>
+  
+- **E-mail:** leonardo.kazuo@gmail.com  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
+---
